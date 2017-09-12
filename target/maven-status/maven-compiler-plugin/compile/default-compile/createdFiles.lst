@@ -1,0 +1,4 @@
+com\test\web\ConnDB.class
+com\test\web\controller\AddBook.class
+com\test\web\model\Book.class
+com\test\web\service\BookDeal.class
